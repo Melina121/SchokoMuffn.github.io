@@ -1,7 +1,6 @@
 # Bibi Blocksberg
 
 ## Die kleine Hexe
-
 1. beste Freundin: Tina Martin vom Martinshof
 2. Besen: Kartoffelbrei
 3. Pferd: Sabrina
