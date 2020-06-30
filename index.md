@@ -1,2 +1,1 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
-# Header
+# Mein Lieblingscharakter
