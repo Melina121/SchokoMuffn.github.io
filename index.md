@@ -1,5 +1,7 @@
 # Bibi Blocksberg
 
+> "Hex hex, Sabrina spring!"
+
 ## Die kleine Hexe
 * beste Freundin: Tina Martin vom Martinshof
 * Besen: Kartoffelbrei
