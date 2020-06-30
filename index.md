@@ -10,4 +10,5 @@ Kartoffelbrei. Ihre beste Feundin heißt Tina Martin und wohnt auf dem Martinsho
 Das ist ein Reiterhof, auf dem Bibi gerne Urlaub macht und auf dem ihr 
 Lieblingspferd Sabrina steht.
 
-> "Hex hex, Sabrina spring!"
+Zitat:
+> Hex hex, Sabrina spring!
