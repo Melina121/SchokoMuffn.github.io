@@ -12,3 +12,5 @@ Lieblingspferd Sabrina steht.
 
 Zitat:
 > Hex hex, Sabrina spring!
+
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Bibi_Blocksberg.svg/560px-Logo_Bibi_Blocksberg.svg.png>
